@@ -1,2 +1,1 @@
-# sample-woks
-let beggin to code
+it use the paricle.js module to impliment particles in webpage.
